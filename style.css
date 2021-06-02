@@ -1,0 +1,58 @@
+/*#maudo{
+	width: 100px;
+	height: 200px;
+	background: red;
+	float: left;
+}
+#mauxanh{
+	width: 150px;
+	height: 150px;
+	background: #1332CE;
+	border: 5px solid #68F5FA;*/
+	/*margin-left: 200px;
+	margin-top: 40px;*/
+	/*float: left;
+	padding-left:50px; 
+	padding-top:50px;
+}*/
+/*#mauxanh2{
+	width: 200px;
+	height: 200px;
+	background: #1DA436;
+}*/
+#khunglon{
+	width: 600px;
+	height: 600px;
+	background: #FE0000;
+	float: left;
+}
+#khungnho{
+	width: 200px;
+	height: 200px;
+	background: #FCFF11;
+	margin-left: 200px;
+	margin-top: 200px;
+}
+#all{
+	width: 600px;
+	height: 600px;
+	background: #FE9191;
+	margin: auto;
+}
+.dong{
+	width: 600px;
+	height: 200px;
+	background: blue;
+}
+.xam{
+	width: 200px;
+	height: 200px;
+	background: gray;
+	float: left;
+}
+.trang{
+	width: 200px;
+	height: 200px;
+	background: white;
+	float: left;
+}
